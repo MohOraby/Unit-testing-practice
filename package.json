@@ -1,0 +1,26 @@
+{
+  "name": "testcasesondb",
+  "version": "1.0.0",
+  "description": "Practicing unit testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohOraby/Unit-testing-practice.git"
+  },
+  "author": "Mohamed Oraby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohOraby/Unit-testing-practice/issues"
+  },
+  "homepage": "https://github.com/MohOraby/Unit-testing-practice#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mongoose": "^5.12.6"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
